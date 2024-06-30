@@ -8,6 +8,8 @@ A **Resource Group** in Azure is a logical container for resources that share th
 
 managing resources in industry- resource grouping can be done using project name/project name-env. eg- prod/dev/qa. as per azure accounts
 
+resource and resource group have 1:1 mapping. on resouce can go to a single RG only.
+
 ### Key Points about Resource Groups:
 
 - **Lifecycle Management:** Resources within a group can be managed collectively, making it easy to handle deployments, updates, and deletions.
